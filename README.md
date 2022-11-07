@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @DoulbDeckLazy
-- 👀 I’m interested in making rm skins and py projects
+- 👀 I’m interested in making python projects
 - 🌱 I’m currently learning python and scripting
-- 📫 Connect me at https://www.deviantart.com/doulbdeck
